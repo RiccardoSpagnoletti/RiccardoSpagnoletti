@@ -1,17 +1,17 @@
 # Riccardo Spagnoletti
 
-Ciao! Mi chiamo Riccardo Spagnoletti, sono uno studente di Ingegneria Informatica presso l'Università di Pisa. In questa repository pubblico i progetti da me realizzati, rendendoli disponibili a chiunque sia interessato a esplorare o contribuire.
+Hello! My name is Riccardo Spagnoletti, and I am a Computer Engineering student at the University of Pisa. In this repository, I publish the projects I have created, making them available to anyone interested in exploring or contributing.
 
-## 📌 Obiettivo della Repository
+## 📌 Repository Purpose
 
-Questa repository è pensata per raccogliere e condividere i miei progetti, offrendo a chiunque la possibilità di consultare il codice e, dove possibile, partecipare attivamente alla sua evoluzione. Ogni progetto è descritto in dettaglio nei rispettivi file README, con indicazioni su come installare e utilizzare i vari componenti.
+This repository is designed to gather and share my projects, giving anyone the opportunity to review the code and, where possible, actively participate in its development. Each project is described in detail in its respective README file, with instructions on how to install and use the various components.
 
-## 📫 Contatti
+## 📫 Contact
 
-Per aggiornamenti professionali, potete seguirmi su LinkedIn: [Riccardo Spagnoletti](https://www.linkedin.com/in/riccardo-spagnoletti-024174222/).
+For professional updates, feel free to follow me on LinkedIn: [Riccardo Spagnoletti](https://www.linkedin.com/in/riccardo-spagnoletti-024174222/).
 
-Sentitevi liberi di contribuire o di lasciare feedback!
+Feel free to contribute or leave feedback!
 
 
-## 🎓 University Project :
+## 🎓 University Project:
 [Database_SQL](https://github.com/RiccardoSpagnoletti/Database)
