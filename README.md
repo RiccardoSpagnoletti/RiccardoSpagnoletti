@@ -1,4 +1,4 @@
-# Riccardo Spagnoletti - Progetti di Ingegneria Informatica
+# Riccardo Spagnoletti
 
 Ciao! Mi chiamo Riccardo Spagnoletti, sono uno studente di Ingegneria Informatica presso l'Università di Pisa. In questa repository pubblico i progetti da me realizzati, rendendoli disponibili a chiunque sia interessato a esplorare o contribuire.
 
