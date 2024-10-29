@@ -13,5 +13,5 @@ Per aggiornamenti professionali, potete seguirmi su LinkedIn: [Riccardo Spagnole
 Sentitevi liberi di contribuire o di lasciare feedback!
 
 
-# University Project :
+## 🎓 University Project :
 [Database_SQL](https://github.com/RiccardoSpagnoletti/Database)
