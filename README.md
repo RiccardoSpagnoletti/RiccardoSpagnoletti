@@ -1,6 +1,6 @@
 # Riccardo Spagnoletti
 
-Hello! My name is Riccardo Spagnoletti, and I am a Computer Engineering student at the University of Pisa. In this repository, I publish the projects I have created, making them available to anyone interested in exploring or contributing.
+Hello! My name is Riccardo Spagnoletti, and I am a graduated Computer Engineering student at the University of Pisa. In this repository, I publish the projects I have created, making them available to anyone interested in exploring new topics or how I typically approach projects.
 
 ## 📌 Repository Purpose
 
@@ -10,7 +10,6 @@ This repository is designed to gather and share my projects, giving anyone the o
 
 For professional updates, feel free to follow me on LinkedIn: [Riccardo Spagnoletti](https://www.linkedin.com/in/riccardo-spagnoletti-024174222/).
 
-Feel free to contribute or leave feedback!
 
 ## 🎓 Thesis:
 [Insecure Deserialization vulnerabilities in PHP and JAVA](https://github.com/RiccardoSpagnoletti/Thesis_Insecure_Deserialization)
