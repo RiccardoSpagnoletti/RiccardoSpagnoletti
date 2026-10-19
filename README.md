@@ -12,6 +12,8 @@ For professional updates, feel free to follow me on LinkedIn: [Riccardo Spagnole
 
 Feel free to contribute or leave feedback!
 
+## 🎓 Thesis:
+[Insecure Deserialization vulnerabilities in PHP and JAVA](https://github.com/RiccardoSpagnoletti/Thesis_Insecure_Deserialization)
 
 ## 🎓 University Project:
 [Database_SQL](https://github.com/RiccardoSpagnoletti/Database)
